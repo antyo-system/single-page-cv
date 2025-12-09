@@ -17,3 +17,4 @@ Pure HTML
 ## 👨‍💻 Author
 **Antyo**  
 [LinkedIn](#) | [GitHub](https://github.com/<username>)
+https://roadmap.sh/projects/single-page-cv
